@@ -3,4 +3,5 @@ node_modules
 __tests__
 mochawesome-report
 nodemon.json
-
+cypress
+cypress.json
